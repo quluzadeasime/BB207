@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\bin\Debug\net8.0\MethodTask.exe
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\bin\Debug\net8.0\MethodTask.deps.json
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\bin\Debug\net8.0\MethodTask.runtimeconfig.json
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\bin\Debug\net8.0\MethodTask.dll
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\bin\Debug\net8.0\MethodTask.pdb
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\obj\Debug\net8.0\MethodTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\obj\Debug\net8.0\MethodTask.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\obj\Debug\net8.0\MethodTask.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\obj\Debug\net8.0\MethodTask.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\obj\Debug\net8.0\MethodTask.sourcelink.json
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\obj\Debug\net8.0\MethodTask.dll
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\obj\Debug\net8.0\refint\MethodTask.dll
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\obj\Debug\net8.0\MethodTask.pdb
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\obj\Debug\net8.0\MethodTask.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Task\taskMethod\MethodTask\MethodTask\obj\Debug\net8.0\ref\MethodTask.dll
